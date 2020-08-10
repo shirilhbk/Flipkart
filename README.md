@@ -1,3 +1,3 @@
 # Flipkart
-Samle project
-hello 
+Sample project
+hello welcome 
